@@ -1,0 +1,3 @@
+Desenvolvimento rapido de aplicacoes em python
+python na quinta
+aplicacoes em python
